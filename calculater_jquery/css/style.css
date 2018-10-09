@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+}
+
+section > section{
+  height: 100px;
+  width: 100px;
+  background: black;
+  color: white;
+  font-size: 3em;
+}
+
+input{
+  margin-bottom: 30px;
+  height:60px;
+  width: 200px;
+  font-size: 2em;
+}
+
+#minus, #divide{
+  height: 100px;
+  width: 100px;
+  background: pink;
+  color: black;
+  font-size: 3em;
+}
+
+.inner{
+  display: flex;
+  justify-content: center;
+
+}
